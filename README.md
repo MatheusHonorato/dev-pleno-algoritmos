@@ -1,2 +1,2 @@
-# dev-pleno-algoritmos
-👨‍💻 Playlist DevPleno no youtube - Algoritmos
+# DevPleno algoritmos
+💻 Playlist DevPleno no youtube - Algoritmos
